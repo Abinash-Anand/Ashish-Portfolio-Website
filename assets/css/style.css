@@ -448,7 +448,7 @@ section .container {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 50px;
+  height: 160px;
   display: block;
   background: none;
 }
@@ -478,7 +478,12 @@ section .container {
   transition: .9s;
   background-color: #18d26e;
 }
+.icon-size{
+height: 60px;
+width: 60px;
+margin:5px 5px  5px 0;  
 
+}
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
@@ -507,6 +512,12 @@ section .container {
 
 .interests .icon-box:hover {
   background: rgba(255, 255, 255, 0.12);
+}
+/*
+Resume...........................
+*/
+.my-resume{
+  height: 480px;
 }
 
 /*--------------------------------------------------------------
