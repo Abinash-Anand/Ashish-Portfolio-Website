@@ -402,6 +402,11 @@ section .container {
 .about-me .content p:last-child {
   margin-bottom: 0;
 }
+.about-me .content-format{
+ padding-right: 200px;
+font-size: normal;
+margin-bottom: 50px;
+}
 
 /*--------------------------------------------------------------
 # Counts
@@ -483,6 +488,25 @@ height: 60px;
 width: 60px;
 margin:5px 5px  5px 0;  
 
+}
+.research-topics{
+  margin-left: 220px;
+  font-weight: bolder;
+  color:#15bb62;
+  text-decoration:underline;
+  
+ 
+}
+.research-topics .topics{
+  text-align: left;
+  margin-left: 0;
+  padding-left: 0;
+  border-left: 0;
+  font-size: large;
+  font-weight: 600;
+  color: #fff;
+  
+  
 }
 /*--------------------------------------------------------------
 # Interests
