@@ -541,10 +541,29 @@ margin:5px 5px  5px 0;
 Resume...........................
 */
 .my-resume{
-  height: 480px;
-  
+  height: 1080px;
+  width: 2900px;
 }
 
+.first-card{
+  height: 400px;
+  width:400px;
+  display: inline-block;
+  margin: 0 25px 25px 50px;
+  background:rgba(170, 170, 170, 0.237);
+  
+}
+.adjust-font-size{
+  font-size: medium;
+}
+.internships{
+  margin: 10px 25px 20px 20px ;
+}
+.content-wrap{
+ padding-right: 8%;
+ margin-top: 20px;
+ word-wrap: break-word  ;
+}
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -998,3 +1017,6 @@ Resume...........................
 .credits a:hover {
   color: #fff;
 }
+
+/*added css
+*/
