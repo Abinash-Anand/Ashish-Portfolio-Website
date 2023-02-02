@@ -580,7 +580,11 @@ Resume...........................
   margin: 0 25px 25px 50px;
   background:rgba(170, 170, 170, 0.237);
   
-  
+}
+.first-card:hover{
+  background-color: #18d26e;
+  transition-duration: .5s;
+ 
 }
 .adjust-font-size{
   font-size: medium;
@@ -598,11 +602,20 @@ word-spacing: 2.5px;
 }
 .internships h3{
   font-weight: 800;
-  text-decoration-line: underline;
-  text-decoration-color: #35e888;
+ 
+
+
 }
 
+.third-card{
 
+}
+.fourth-card{
+
+}
+.testing{
+  
+}
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
