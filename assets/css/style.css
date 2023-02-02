@@ -552,6 +552,7 @@ Resume...........................
   margin: 0 25px 25px 50px;
   background:rgba(170, 170, 170, 0.237);
   
+  
 }
 .adjust-font-size{
   font-size: medium;
@@ -562,8 +563,18 @@ Resume...........................
 .content-wrap{
  padding-right: 8%;
  margin-top: 20px;
- word-wrap: break-word  ;
+ font-family: sans-serif;
+ font-weight: lighter;
+word-spacing: 2.5px;
+
 }
+.internships h3{
+  font-weight: 800;
+  text-decoration-line: underline;
+  text-decoration-color: #35e888;
+}
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
