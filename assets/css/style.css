@@ -489,11 +489,12 @@ width: 60px;
 margin:5px 5px  5px 0;  
 
 }
-.research-topics{
+/* .research-topics{
   margin-left: 220px;
   font-weight: bolder;
   color:#15bb62;
   text-decoration:underline;
+  display: block;
   
  
 }
@@ -506,8 +507,35 @@ margin:5px 5px  5px 0;
   font-weight: 600;
   color: #fff;
   
-  
+} */
+.container-h1{
+  margin-bottom: 50px;
+  color: rgb(188, 188, 188);
 }
+.container-element-properties{
+ 
+  padding: 25px;
+  margin: 20px 10px;
+  box-sizing: border-box;
+ 
+
+} 
+.first-span{
+  background: grey;
+}
+.second-span{
+  background-color: #ed3c0d;
+}
+.third-span{
+  background-color:#15bb62;
+}
+.fourth-span{
+  background-color: rgb(80, 80, 150);
+}
+
+.container-element-properties
+
+
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
