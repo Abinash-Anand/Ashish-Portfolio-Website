@@ -189,6 +189,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+
 /* Mobile Navigation */
 .mobile-nav-toggle {
   position: fixed;
@@ -308,7 +309,14 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 26px;
   }
 }
-
+/*------CORD LOGO--------------*/
+.cord-icon{
+  position: relative;
+  right: 132%;
+}
+.cord-logo{
+  width: 50px;
+}
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
